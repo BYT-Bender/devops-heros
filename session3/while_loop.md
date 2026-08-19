@@ -1,0 +1,5 @@
+- The `while true` makes sure that the loop keeps running until it is broken.
+- The first line of the loop takes the input `input`.
+- Then it checks if the `input` is equal to `q` or not, if yes then break (exit) the loop, and if not then it will continue with the next `elif` condition.
+- Then in the next `elif` condition it checks if the input is a number or not (with the help of regex).
+- And at the end of every iteration it prints the `input` variable.
